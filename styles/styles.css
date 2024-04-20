@@ -18,3 +18,7 @@ h1 {
   border-style: groove;
   border-color: #2718af;
 }
+
+#ingredients {
+  list-style-type: circle;
+}
