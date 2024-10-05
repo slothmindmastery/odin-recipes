@@ -3,6 +3,7 @@ h2 {
   background-color: #18afaf;
   color: #2718af;
   font-family: "Brush Script MT", "Trebuchet MS", sans-serif;
+  text-align: center;
 }
 
 h1 {
@@ -21,4 +22,21 @@ h1 {
 
 #ingredients {
   list-style-type: circle;
+}
+
+.description {
+  background: #77afd3;
+  margin: 0px 8px;
+  padding: 16px 8px;
+  text-align: center;
+}
+
+.recipe-details {
+  background: #19435e;
+  margin-top: 0;
+  margin-bottom: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  padding: 16px 8px;
+  color: antiquewhite;
 }
